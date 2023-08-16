@@ -11,6 +11,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // TaskNumber 1
+        // TaskNumber 1.2 PART 2
+        
         // Do any additional setup after loading the view.
     }
 
