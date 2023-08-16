@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         // TaskNumber 1.2 PART 2
         
         // Do any additional setup after loading the view.
+        // Третий логику пишет
+        // Закончил
         // Я второй! (логика)
     }
 
